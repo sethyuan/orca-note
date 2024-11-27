@@ -10,7 +10,7 @@ An easy to use note taking application that is good both for outlining and long-
 
 It's currently in alpha testing, so bugs are expected. Please backup your data regularly.
 
-## Running on macOS M chips
+## Running on macOS
 
 Because the app is still in early development, it isn't a signed app yet, to run it, you have to open your system's terminal and execute the following command once after you installed the app:
 
