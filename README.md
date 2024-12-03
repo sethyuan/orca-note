@@ -21,3 +21,7 @@ xattr -r -d com.apple.quarantine /Applications/Orca\ Note.app
 ## Community
 
 If you have questions regarding the use of the software, or if you want to share your way of taking notes with Orca Note, please join the community on Discord: [https://discord.gg/qsVfJRxcey](https://discord.gg/qsVfJRxcey)
+
+## Plugin development
+
+If you're a developer and are interested in creating plugins for Orca Note, I have written a [simple-task](https://github.com/sethyuan/orca-simple-task) plugin as a template. It's a fully functional plugin that non-developer users can also use.
