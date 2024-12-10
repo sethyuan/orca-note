@@ -6,6 +6,8 @@
 
 ![zh](https://github.com/user-attachments/assets/761ff0f6-a4c2-4420-9c3f-4c4028c50937)
 
+https://github.com/user-attachments/assets/47eaeae5-4bc3-4702-a817-9fb2cde33b3f
+
 ## 注意
 
 目前应用处于公测阶段，因此可能会出现一些bug。请定期备份您的数据（虎鲸笔记也会在您保持运行的情况下每小时自动备份您的数据）。
