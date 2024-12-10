@@ -6,6 +6,8 @@ An easy to use note taking application that is good both for outlining and long-
 
 ![en](https://github.com/user-attachments/assets/d93f94e5-8740-4708-9511-90b53176c279)
 
+https://github.com/user-attachments/assets/47eaeae5-4bc3-4702-a817-9fb2cde33b3f
+
 ## Note
 
 It's currently in beta testing so bugs are expected. Please backup your data regularly (Orca Note also automatically backup your data hourly as long as you keep it running).
