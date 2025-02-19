@@ -12,14 +12,6 @@ https://github.com/user-attachments/assets/47eaeae5-4bc3-4702-a817-9fb2cde33b3f
 
 It's currently in beta testing so bugs are expected. Please backup your data regularly (Orca Note also automatically backup your data hourly as long as you keep it running).
 
-## Running on macOS
-
-Because the app is still in early development, it isn't a signed app yet, to run it, you have to open your system's terminal and execute the following command once you install the app:
-
-```
-xattr -r -d com.apple.quarantine /Applications/Orca\ Note.app
-```
-
 ## Community
 
 If you have questions regarding the use of the software, or if you want to share your way of taking notes with Orca Note, please join the community on Discord: [https://discord.gg/qsVfJRxcey](https://discord.gg/qsVfJRxcey)
