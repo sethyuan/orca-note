@@ -12,14 +12,6 @@ https://github.com/user-attachments/assets/47eaeae5-4bc3-4702-a817-9fb2cde33b3f
 
 目前应用处于公测阶段，因此可能会出现一些bug。请定期备份您的数据（虎鲸笔记也会在您保持运行的情况下每小时自动备份您的数据）。
 
-## 在macOS上运行
-
-由于该应用仍在早期开发阶段，它尚未被签名。要运行它，您必须在安装应用后打开系统终端并执行以下命令：
-
-```
-xattr -r -d com.apple.quarantine /Applications/Orca\ Note.app
-```
-
 ## 社区
 
 如果您对软件的使用有任何疑问，或者您想分享您使用虎鲸笔记的方法，请加入我们的微信群。请扫描下面我的二维码，我拉您入群。
