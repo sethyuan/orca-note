@@ -8,10 +8,6 @@ An easy to use note taking application that is good both for outlining and long-
 
 https://github.com/user-attachments/assets/47eaeae5-4bc3-4702-a817-9fb2cde33b3f
 
-## Note
-
-It's currently in beta testing so bugs are expected. Please backup your data regularly (Orca Note also automatically backup your data hourly as long as you keep it running).
-
 ## Community
 
 If you have questions regarding the use of the software, or if you want to share your way of taking notes with Orca Note, please join the community on Discord: [https://discord.gg/qsVfJRxcey](https://discord.gg/qsVfJRxcey)
