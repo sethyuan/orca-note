@@ -4,7 +4,7 @@ English | [中文](README.zh.md)
 
 An easy to use note taking application that is good both for outlining and long-form writing.
 
-![en](https://github.com/user-attachments/assets/d93f94e5-8740-4708-9511-90b53176c279)
+<img width="1152" height="819" alt="SCR-20260710-hywl" src="https://github.com/user-attachments/assets/2a12721e-59ab-447e-b040-7223039f2c3c" />
 
 https://github.com/user-attachments/assets/47eaeae5-4bc3-4702-a817-9fb2cde33b3f
 
